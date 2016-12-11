@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MenuApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Data</string>
+    <string name="column_count">3</string>
+    <string name="row_count">4</string>
+
+</resources>
